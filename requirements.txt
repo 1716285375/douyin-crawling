@@ -1,0 +1,7 @@
+# websocket
+protobuf
+requests
+loguru
+pprint
+urllib
+bs4

@@ -1,0 +1,14 @@
+// 语法版本
+syntax = "proto3";
+
+package wupeiqi;
+
+message Person {
+    string name = 1;
+    int32 age = 2;
+}
+
+message Info {
+    string method = 1;
+    string payload = 2;
+}

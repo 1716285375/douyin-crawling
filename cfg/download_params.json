@@ -1,0 +1,60 @@
+{
+    "video_id": "url",
+    "line": "0",
+    "ratio": "720p",
+    "media_type": "4",
+    "vr_type": "0",
+    "test_cdn": "None",
+    "improve_bitrate": "0",
+    "iid": "35628056608",
+    "device_id": "46166618999",
+    "os_api": "18",
+    "app_name": "aweme",
+    "channel": "App%20Store",
+    "idfa": "00000000-0000-0000-0000-000000000000",
+    "device_platform": "iphone",
+    "build_number": "27014",
+    "vid": "2ED380A7-F09C-6C9E-90F5-862D58F3129C",
+    "openudid": "21dae85eeac1da35a69e2a0ffeaeef61c78a2e98",
+    "device_type": "iPhone8%2C2",
+    "app_version": "2.7.0",
+    "version_code": "2.7.0",
+    "os_version": "12.0",
+    "screen_width": "1242",
+    "aid": "1128",
+    "ac": "WIFI"
+}
+
+{
+    :authority:
+mon.tiktokv.com
+:method:
+OPTIONS
+:path:
+/monitor_browser/collect/batch/?bid=tiktok_pns_web_runtime
+:scheme:
+https
+accept:
+*/*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+zh-CN,zh;q=0.9,en-CN;q=0.8,en;q=0.7,ja;q=0.6,ko;q=0.5
+access-control-request-headers:
+content-type
+access-control-request-method:
+POST
+origin:
+https://www.tiktok.com
+priority:
+u=1, i
+'referer': 'https://www.tiktok.com/'
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+}
