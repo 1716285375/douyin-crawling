@@ -13,7 +13,9 @@ a tool for Information crawling in the Douyin live broadcast room
 
 
 ## Appreciate 
-![weixin](https://github.com/1716285375/douyin-crawling/imgs/wx-zf.jpg) 
-![zhifubao](https://github.com/1716285375/douyin-crawling/imgs/zfb-zf.jpg) 
+![weixin](https://github.com/1716285375/douyin-crawling/blob/main/imgs/wx-zf.jpg)   
+
+
+![zhifubao](https://github.com/1716285375/douyin-crawling/blob/main/imgs/zfb-zf.jpg)   
 
 
