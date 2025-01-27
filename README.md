@@ -13,5 +13,5 @@ a tool for Information crawling in the Douyin live broadcast room
 
 
 ## Appreciate   
-<img src="https://github.com/1716285375/douyin-crawling/blob/main/imgs/wx-zf.jpg" width="100px">  
-<img src="https://github.com/1716285375/douyin-crawling/blob/main/imgs/zfb-zf.jpg" width="100px">    
+<img src="https://github.com/1716285375/douyin-crawling/blob/main/imgs/wx-zf.jpg" width="200px hight=200px">  
+<img src="https://github.com/1716285375/douyin-crawling/blob/main/imgs/zfb-zf.jpg" width="200px hight=200px">    
